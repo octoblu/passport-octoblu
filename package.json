@@ -1,6 +1,6 @@
 {
   "name": "passport-octoblu",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "app.octoblu.com authentication strategy for Passport",
   "main": "./lib",
   "scripts": {
@@ -22,8 +22,8 @@
   "homepage": "https://github.com/octoblu/passport-octoblu",
   "dependencies": {
     "lodash": "^4.5.1",
-    "meshblu-config": "^3.1.1",
-    "meshblu-http": "^3.2.0",
+    "meshblu-config": "^6.0.0",
+    "meshblu-http": "^7.2.0",
     "passport-oauth2": "^1.1.2"
   }
 }
